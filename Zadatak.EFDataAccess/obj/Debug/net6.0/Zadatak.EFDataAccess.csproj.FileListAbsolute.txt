@@ -1,0 +1,17 @@
+C:\Users\spaso\source\repos\Zadatak\Zadatak.EFDataAccess\bin\Debug\net6.0\Zadatak.EFDataAccess.deps.json
+C:\Users\spaso\source\repos\Zadatak\Zadatak.EFDataAccess\bin\Debug\net6.0\Zadatak.EFDataAccess.runtimeconfig.json
+C:\Users\spaso\source\repos\Zadatak\Zadatak.EFDataAccess\bin\Debug\net6.0\Zadatak.EFDataAccess.dll
+C:\Users\spaso\source\repos\Zadatak\Zadatak.EFDataAccess\bin\Debug\net6.0\Zadatak.EFDataAccess.pdb
+C:\Users\spaso\source\repos\Zadatak\Zadatak.EFDataAccess\bin\Debug\net6.0\Zadatak.Domain.dll
+C:\Users\spaso\source\repos\Zadatak\Zadatak.EFDataAccess\bin\Debug\net6.0\Zadatak.Domain.pdb
+C:\Users\spaso\source\repos\Zadatak\Zadatak.EFDataAccess\obj\Debug\net6.0\Zadatak.EFDataAccess.csproj.AssemblyReference.cache
+C:\Users\spaso\source\repos\Zadatak\Zadatak.EFDataAccess\obj\Debug\net6.0\Zadatak.EFDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spaso\source\repos\Zadatak\Zadatak.EFDataAccess\obj\Debug\net6.0\Zadatak.EFDataAccess.AssemblyInfoInputs.cache
+C:\Users\spaso\source\repos\Zadatak\Zadatak.EFDataAccess\obj\Debug\net6.0\Zadatak.EFDataAccess.AssemblyInfo.cs
+C:\Users\spaso\source\repos\Zadatak\Zadatak.EFDataAccess\obj\Debug\net6.0\Zadatak.EFDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\spaso\source\repos\Zadatak\Zadatak.EFDataAccess\obj\Debug\net6.0\Zadatak.EFDataAccess.csproj.CopyComplete
+C:\Users\spaso\source\repos\Zadatak\Zadatak.EFDataAccess\obj\Debug\net6.0\Zadatak.EFDataAccess.dll
+C:\Users\spaso\source\repos\Zadatak\Zadatak.EFDataAccess\obj\Debug\net6.0\refint\Zadatak.EFDataAccess.dll
+C:\Users\spaso\source\repos\Zadatak\Zadatak.EFDataAccess\obj\Debug\net6.0\Zadatak.EFDataAccess.pdb
+C:\Users\spaso\source\repos\Zadatak\Zadatak.EFDataAccess\obj\Debug\net6.0\Zadatak.EFDataAccess.genruntimeconfig.cache
+C:\Users\spaso\source\repos\Zadatak\Zadatak.EFDataAccess\obj\Debug\net6.0\ref\Zadatak.EFDataAccess.dll

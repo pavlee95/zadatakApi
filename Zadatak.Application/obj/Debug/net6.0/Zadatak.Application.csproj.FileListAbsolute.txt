@@ -1,0 +1,15 @@
+C:\Users\spaso\source\repos\Zadatak\Zadatak.Application\bin\Debug\net6.0\Zadatak.Application.deps.json
+C:\Users\spaso\source\repos\Zadatak\Zadatak.Application\bin\Debug\net6.0\Zadatak.Application.dll
+C:\Users\spaso\source\repos\Zadatak\Zadatak.Application\bin\Debug\net6.0\Zadatak.Application.pdb
+C:\Users\spaso\source\repos\Zadatak\Zadatak.Application\obj\Debug\net6.0\Zadatak.Application.csproj.AssemblyReference.cache
+C:\Users\spaso\source\repos\Zadatak\Zadatak.Application\obj\Debug\net6.0\Zadatak.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spaso\source\repos\Zadatak\Zadatak.Application\obj\Debug\net6.0\Zadatak.Application.AssemblyInfoInputs.cache
+C:\Users\spaso\source\repos\Zadatak\Zadatak.Application\obj\Debug\net6.0\Zadatak.Application.AssemblyInfo.cs
+C:\Users\spaso\source\repos\Zadatak\Zadatak.Application\obj\Debug\net6.0\Zadatak.Application.csproj.CoreCompileInputs.cache
+C:\Users\spaso\source\repos\Zadatak\Zadatak.Application\obj\Debug\net6.0\Zadatak.Application.dll
+C:\Users\spaso\source\repos\Zadatak\Zadatak.Application\obj\Debug\net6.0\refint\Zadatak.Application.dll
+C:\Users\spaso\source\repos\Zadatak\Zadatak.Application\obj\Debug\net6.0\Zadatak.Application.pdb
+C:\Users\spaso\source\repos\Zadatak\Zadatak.Application\obj\Debug\net6.0\ref\Zadatak.Application.dll
+C:\Users\spaso\source\repos\Zadatak\Zadatak.Application\bin\Debug\net6.0\Zadatak.Domain.dll
+C:\Users\spaso\source\repos\Zadatak\Zadatak.Application\bin\Debug\net6.0\Zadatak.Domain.pdb
+C:\Users\spaso\source\repos\Zadatak\Zadatak.Application\obj\Debug\net6.0\Zadatak.Application.csproj.CopyComplete
